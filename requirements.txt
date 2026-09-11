@@ -4,4 +4,4 @@ numpy
 scikit-learn
 joblib
 shap
-ploty
+plotly
