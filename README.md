@@ -1,0 +1,1 @@
+Run: pip install -r requirements.txt then streamlit run app.py\nThe included dataset is synthetic because the original dataset was unavailable.
